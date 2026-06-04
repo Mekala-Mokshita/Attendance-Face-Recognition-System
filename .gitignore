@@ -1,0 +1,15 @@
+venv/
+lang/
+
+__pycache__/
+*.pyc
+
+attendance.db
+students.db
+encodings.pkl
+
+attendance_data.csv
+department_attendance.csv
+
+known_faces/
+lang
